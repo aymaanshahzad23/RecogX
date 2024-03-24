@@ -2,8 +2,6 @@
 
 RecogX is a web application designed to detect deepfake images using the MesoNet4 model. It provides users with a simple interface to upload images and receive predictions on whether the uploaded image is a deepfake or not.
 
-![RecogX Demo](demo.gif)
-
 ## Features
 
 - Detects deepfake images using the MesoNet4 model.
@@ -53,23 +51,6 @@ To get started with RecogX, follow these steps:
 
 4. Wait for the prediction result to appear.
 
-### Example
-
-![Example](example.png)
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to RecogX, please follow these guidelines:
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
