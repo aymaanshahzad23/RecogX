@@ -42,7 +42,7 @@ To get started with RecogX, follow these steps:
 1. Run the Streamlit app:
 
    ```sh
-   streamlit run app.py
+   streamlit run RecogX.py
    ```
 
 2. Access the app in your web browser at `http://localhost:8501`.
