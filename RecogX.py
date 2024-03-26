@@ -28,7 +28,7 @@ def load_model_weights():
     x = Flatten()(x)
     x = Dropout(0.5)(x)
     x = Dense(16)(x)
-    x = LeakyReLU(alpha=0.1)(x)
+    x = LeakyReLU(0.1)(x)
     x = Dropout(0.5)(x)
     output = Dense(1, activation='sigmoid')(x)
         
